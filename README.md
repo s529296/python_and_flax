@@ -3,3 +3,4 @@
 * Sneha Ojha
 * Noah Chase
 * Enid Maharjan
+* Susan Maharjan
