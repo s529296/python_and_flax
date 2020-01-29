@@ -2,3 +2,4 @@
 ## Group Members: 
 * Sneha Ojha
 * Noah Chase
+* Enid Maharjan
